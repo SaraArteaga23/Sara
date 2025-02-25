@@ -1,0 +1,41 @@
+Gloss Ing.
+
+ESPAÑOL
+Lacustre: Que habita, está o se realiza en un lago o en sus orillas
+Red neuronal:
+sub-zonificar
+sub-zonación:
+cimentación:
+tramo:
+abruptos:
+planteamiento:
+medición:
+ruido sísmico:
+depósitos de suelo:
+depósitos lacustres:
+penetración del cono:
+contenido de humedad:
+clasificación puntual:
+
+INGLES
+Stratigraphie
+Lacustrine
+Resistance
+Sefl-reinforcing:
+Interglacial:
+Holocene:
+Interglacial-like state:
+Stewardship:
+Enhancement:
+Decarbonization:
+Carbon sinks:
+New govrenance arrangement:
+Tipping points:
+Nonlinear dynamics:
+Propelled:
+Intrinsic:
+Biogeophysical:
+Deliberate:
+Integral:
+Sub-zonation:
+Classifier node:
